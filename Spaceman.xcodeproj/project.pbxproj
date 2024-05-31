@@ -196,8 +196,9 @@
 		E87334DD256B51CF0012586E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				BuildIndependentTargetsInParallel = YES;
 				LastSwiftUpdateCheck = 1220;
-				LastUpgradeCheck = 1420;
+				LastUpgradeCheck = 1540;
 				TargetAttributes = {
 					E87334E4256B51CF0012586E = {
 						CreatedOnToolsVersion = 12.2;
@@ -430,7 +431,7 @@
 				CURRENT_PROJECT_VERSION = 1.0;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Spaceman/Preview Content\"";
-				DEVELOPMENT_TEAM = P2Q7LG69J2;
+				DEVELOPMENT_TEAM = ZD276385K7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
@@ -460,7 +461,7 @@
 				CURRENT_PROJECT_VERSION = 1.0;
 				DEAD_CODE_STRIPPING = YES;
 				DEVELOPMENT_ASSET_PATHS = "\"Spaceman/Preview Content\"";
-				DEVELOPMENT_TEAM = P2Q7LG69J2;
+				DEVELOPMENT_TEAM = ZD276385K7;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				FRAMEWORK_SEARCH_PATHS = "$(inherited)";
